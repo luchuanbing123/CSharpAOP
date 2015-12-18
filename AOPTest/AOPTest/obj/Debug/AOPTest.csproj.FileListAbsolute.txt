@@ -1,0 +1,11 @@
+F:\code-qa\AOPTest\AOPTest\bin\Debug\AOPTest.exe.config
+F:\code-qa\AOPTest\AOPTest\bin\Debug\AOPTest.exe
+F:\code-qa\AOPTest\AOPTest\bin\Debug\AOPTest.pdb
+F:\code-qa\AOPTest\AOPTest\bin\Debug\NewAOP.dll
+F:\code-qa\AOPTest\AOPTest\bin\Debug\NewAOP.pdb
+F:\code-qa\AOPTest\AOPTest\obj\Debug\AOPTest.csprojResolveAssemblyReference.cache
+F:\code-qa\AOPTest\AOPTest\obj\Debug\AOPTest.exe
+F:\code-qa\AOPTest\AOPTest\obj\Debug\AOPTest.pdb
+F:\CSharpAOP.git\AOPTest\AOPTest\bin\Debug\AOPTest.exe.config
+F:\CSharpAOP.git\AOPTest\AOPTest\obj\Debug\AOPTest.exe
+F:\CSharpAOP.git\AOPTest\AOPTest\obj\Debug\AOPTest.pdb

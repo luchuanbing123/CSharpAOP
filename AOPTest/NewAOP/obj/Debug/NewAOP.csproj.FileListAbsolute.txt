@@ -1,0 +1,5 @@
+F:\code-qa\AOPTest\NewAOP\obj\Debug\NewAOP.csprojResolveAssemblyReference.cache
+F:\code-qa\AOPTest\NewAOP\bin\Debug\NewAOP.dll
+F:\code-qa\AOPTest\NewAOP\bin\Debug\NewAOP.pdb
+F:\code-qa\AOPTest\NewAOP\obj\Debug\NewAOP.dll
+F:\code-qa\AOPTest\NewAOP\obj\Debug\NewAOP.pdb
