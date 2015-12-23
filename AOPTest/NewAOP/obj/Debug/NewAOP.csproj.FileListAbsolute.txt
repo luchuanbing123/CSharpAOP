@@ -3,3 +3,8 @@ F:\code-qa\AOPTest\NewAOP\bin\Debug\NewAOP.dll
 F:\code-qa\AOPTest\NewAOP\bin\Debug\NewAOP.pdb
 F:\code-qa\AOPTest\NewAOP\obj\Debug\NewAOP.dll
 F:\code-qa\AOPTest\NewAOP\obj\Debug\NewAOP.pdb
+F:\GitCode\CSharpAOP.git\AOPTest\NewAOP\bin\Debug\NewAOP.dll
+F:\GitCode\CSharpAOP.git\AOPTest\NewAOP\bin\Debug\NewAOP.pdb
+F:\GitCode\CSharpAOP.git\AOPTest\NewAOP\obj\Debug\NewAOP.csprojResolveAssemblyReference.cache
+F:\GitCode\CSharpAOP.git\AOPTest\NewAOP\obj\Debug\NewAOP.dll
+F:\GitCode\CSharpAOP.git\AOPTest\NewAOP\obj\Debug\NewAOP.pdb
